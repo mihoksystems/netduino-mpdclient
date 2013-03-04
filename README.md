@@ -1,4 +1,4 @@
-netduino-mpdclient
-==================
+netduino-mpc
+=====
 
-A client implementation of mpd for netduino 
+Implementation of MPD Client on the Netduino, using libmpc.net (http://libmpc.codeplex.com/)
